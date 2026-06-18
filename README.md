@@ -6,7 +6,7 @@ Pregnancy and Country code - the code for the two questions relating to the coun
 Features code - the code used to find which features are best used to predict for each disease with the base disease being Chagas
 
 The contributions were:
-Torin Lindsay - Myself (Pregnancy and Country code, Features code)
-Pangaew Chansri - (Cleaning code)
+Pangaew Chansri - myself (Cleaning code)
+Torin Lindsay - (Pregnancy and Country code, Features code)
 Emily Gomer - (Final Report)
 Chelsea Cullom - (Final Report)
